@@ -1,9 +1,10 @@
-import './App.css'
+import LearnIntroduction from './components/learnIntroduction'
 
 function App() {
 
   return (
       <div>
+        <LearnIntroduction />
       </div>
   )
 }
